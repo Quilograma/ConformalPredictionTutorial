@@ -14,7 +14,7 @@ is a hands-on introduction, this means that we will provide examples as we intro
 
 Please cite as (Bibtex citation)
 
-@misc{https://doi.org/10.48550/arxiv.2206.11810,
+- @misc{https://doi.org/10.48550/arxiv.2206.11810,
   doi = {10.48550/ARXIV.2206.11810},
   
   url = {https://arxiv.org/abs/2206.11810},
