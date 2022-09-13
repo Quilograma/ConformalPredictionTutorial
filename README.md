@@ -12,6 +12,7 @@ or other severe disease and therefore further exams should be conducted. Using I
 more informative and we believe that should be the standard way of producing forecasts. This paper
 is a hands-on introduction, this means that we will provide examples as we introduce the theory.
 
+```
 Please cite as (Bibtex citation)
 
 - @misc{https://doi.org/10.48550/arxiv.2206.11810,
@@ -31,3 +32,4 @@ Please cite as (Bibtex citation)
   
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+```
