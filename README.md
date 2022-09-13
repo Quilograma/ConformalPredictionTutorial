@@ -1,4 +1,4 @@
-### Code of INDUCTIVE CONFORMAL PREDICTION: A STRAIGHTFORWARD INTRODUCTION WITH EXAMPLES IN PYTHON
+## Code of INDUCTIVE CONFORMAL PREDICTION: A STRAIGHTFORWARD INTRODUCTION WITH EXAMPLES IN PYTHON
 
 Inductive Conformal Prediction (ICP) is a set of distribution-free and model agnostic algorithms
 devised to predict with a user-defined confidence with coverage guarantee. Instead of having point
@@ -12,10 +12,10 @@ or other severe disease and therefore further exams should be conducted. Using I
 more informative and we believe that should be the standard way of producing forecasts. This paper
 is a hands-on introduction, this means that we will provide examples as we introduce the theory.
 
-```
-Please cite as (Bibtex citation)
 
-- @misc{https://doi.org/10.48550/arxiv.2206.11810,
+### Please cite as (Bibtex citation) 
+```
+@misc{https://doi.org/10.48550/arxiv.2206.11810,
   doi = {10.48550/ARXIV.2206.11810},
   
   url = {https://arxiv.org/abs/2206.11810},
